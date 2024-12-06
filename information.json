@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "settings": 2
+    },
+    "id_name": "modrinth_api",
+    "version": 2,
+    "author": "tom",
+    "name": "Modrinth api interface",
+    "description": ""
+}
